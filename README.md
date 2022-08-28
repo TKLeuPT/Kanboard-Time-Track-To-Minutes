@@ -1,7 +1,9 @@
 Time Track to minutes
 ==============================
 
-This plugin allows you to see the time tracking in minutes instead the normal decimal hours.
+This plugin allows you to see the time tracking in hours with minutes instead the normal decimal hours.
+
+This plugin doesn't change the way you store the hours just changes the way you see the time you spent in your tasks!
 
 Author
 ------
